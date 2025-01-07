@@ -1,0 +1,15 @@
+.top-half {
+  background-image: url("/public/Background.jpg"); /* Adjust the path if necessary */
+  background-size: cover;
+  background-position: center;
+  height: 75vh; /* Adjust the height as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: rgb(0, 0, 0); /* Adjust text color for better visibility */
+}
+body {
+  background-color: black;
+  color: white; /* Set text color to white for better visibility */
+}

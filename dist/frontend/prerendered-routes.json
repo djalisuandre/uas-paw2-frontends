@@ -1,0 +1,10 @@
+{
+  "routes": {
+    "/": {},
+    "/article": {},
+    "/coffees": {},
+    "/login": {},
+    "/product": {},
+    "/recipes": {}
+  }
+}
